@@ -1,6 +1,6 @@
 ## About me
 ### Age & Location
-Russian Federation, 19 years
+Russia, 20 years old
 
 ### Experience
 - 5+ years in C++ and C# development
@@ -10,6 +10,7 @@ Russian Federation, 19 years
 ### Current employment
 - [ev0lve Russia](https://vk.com/ev0lved) - CEO (since 2022)
 - [ev0lve Digital](https://ev0lve.digital) - Chief Technical Officer, Senior Developer (since 2020)
+- [Fatality](https://fatality.win) - CIS Distrubution Manager (since 2022)
 - [growtask](https://growtask.ru) - Senior Backend Developer (since 2019)
 
 ## Social
