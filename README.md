@@ -11,6 +11,7 @@ Russia, 20 years old
 - [ev0lve Russia](https://vk.com/ev0lved) - CEO (since 2022)
 - [ev0lve Digital](https://ev0lve.digital) - Chief Technical Officer, Senior Developer (since 2020)
 - [Fatality](https://fatality.win) - CIS Distrubution Manager (since 2022)
+- [unmatched.gg](https://unmatched.gg) - CIS Distribution Manager (since 2023), Frontend Developer (2020-2021)
 - [growtask](https://growtask.ru) - Senior Backend Developer (since 2019)
 
 ## Social
