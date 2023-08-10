@@ -18,5 +18,5 @@ Russia, 20 years old
 - [GitHub](https://github.com/panzerfaust1)
 - [VK](https://vk.com/pnzrfst1)
 - [Discord](https://discord.gg/rh2dXKjmpb)
-- [ev0lve Profile](https://ev0lve.xyz/members/panzerfaust.17398/)
+- [ev0lve Profile](https://ev0lve.xyz/members/panzerfaust.2/)
 - [Fatality Profile](https://fatality.win/members/panzerfaust.821/)
